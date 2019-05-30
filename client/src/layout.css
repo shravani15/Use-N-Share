@@ -1,0 +1,31 @@
+@import '~antd/dist/antd.css';
+
+#components-layout-demo-top-side .logo {
+    width: 30px;
+    height: 31px;
+    background: rgba(255,255,255,.2);
+    margin: 16px 28px 16px 0;
+    float: left;
+  }
+
+  ant-carousel .slick-slide {
+    text-align: center;
+    height: 400px;
+    line-height: 160px;
+    background:whitesmoke;
+    overflow: hidden;
+  }
+  
+  .ant-carousel .slick-slide h3 {
+    color: black;
+  }
+
+  .ant-col .ant-col-8 {
+    padding: '20px';
+    padding-bottom: '20px';
+    padding-top: '20px';
+    border: black;
+    margin: '20px';
+  }
+
+  
